@@ -89,6 +89,7 @@
     <Content Include="Images\Hero05.png" />
     <Content Include="Images\Keyboard.ico" />
     <Content Include="Images\Keyboard.png" />
+    <None Include="Resources\Hero01.png" />
     <Content Include="SensorData\AttractieStatus.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
