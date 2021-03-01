@@ -177,10 +177,20 @@ namespace WachtrijApp
                 return "Komt binnen";
             }
 
+            if (StatusNr == "5")
+            {
+                return "In onderhoud";
+            }
+
             return "";
         }
 
         private void labelWachttijd_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelKar1_Click(object sender, EventArgs e)
         {
 
         }
